@@ -1,5 +1,3 @@
-# DreamLab23
-
 # XPath Web Scraping Activity
 
 ## Essential Resources
