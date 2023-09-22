@@ -3,12 +3,5 @@ channels:
   - defaults
 dependencies:
   - lxml=4.9.2 
-  - pip:
-      - exceptiongroup==1.1.2
-      - h11==0.14.0
-      - outcome==1.2.0
-      - selenium==4.10.0
-      - trio==0.22.2
-      - trio-websocket==0.10.3
-      - wsproto==1.2.0
+  - pandas=2.1.1
 prefix: C:\Users\kabner\AppData\Local\anaconda3
