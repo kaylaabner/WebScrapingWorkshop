@@ -1,7 +1,0 @@
-name: base
-channels:
-  - defaults
-dependencies:
-  - lxml=4.9.2 
-  - pandas=2.1.1
-prefix: C:\Users\kabner\AppData\Local\anaconda3
